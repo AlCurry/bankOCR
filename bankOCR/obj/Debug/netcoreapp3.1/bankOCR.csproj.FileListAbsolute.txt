@@ -1,0 +1,12 @@
+/Users/alcurry/Projects/bankOCR/bankOCR/bin/Debug/netcoreapp3.1/bankOCR.deps.json
+/Users/alcurry/Projects/bankOCR/bankOCR/bin/Debug/netcoreapp3.1/bankOCR.runtimeconfig.json
+/Users/alcurry/Projects/bankOCR/bankOCR/bin/Debug/netcoreapp3.1/bankOCR.runtimeconfig.dev.json
+/Users/alcurry/Projects/bankOCR/bankOCR/bin/Debug/netcoreapp3.1/bankOCR.dll
+/Users/alcurry/Projects/bankOCR/bankOCR/bin/Debug/netcoreapp3.1/bankOCR.pdb
+/Users/alcurry/Projects/bankOCR/bankOCR/obj/Debug/netcoreapp3.1/bankOCR.csprojAssemblyReference.cache
+/Users/alcurry/Projects/bankOCR/bankOCR/obj/Debug/netcoreapp3.1/bankOCR.AssemblyInfoInputs.cache
+/Users/alcurry/Projects/bankOCR/bankOCR/obj/Debug/netcoreapp3.1/bankOCR.AssemblyInfo.cs
+/Users/alcurry/Projects/bankOCR/bankOCR/obj/Debug/netcoreapp3.1/bankOCR.csproj.CoreCompileInputs.cache
+/Users/alcurry/Projects/bankOCR/bankOCR/obj/Debug/netcoreapp3.1/bankOCR.dll
+/Users/alcurry/Projects/bankOCR/bankOCR/obj/Debug/netcoreapp3.1/bankOCR.pdb
+/Users/alcurry/Projects/bankOCR/bankOCR/obj/Debug/netcoreapp3.1/bankOCR.genruntimeconfig.cache
