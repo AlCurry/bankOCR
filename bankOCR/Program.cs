@@ -91,7 +91,6 @@ namespace OCRchallenge
                 if (value > -1)
                     Console.WriteLine(strResult);
 
-                Debug.WriteLine("Debug DO");
             }
 
 
